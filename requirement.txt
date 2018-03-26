@@ -1,0 +1,6 @@
+PYTHON LIBRARY :-
+    -pyaudio
+    -pynput
+    -SpeechRecognition
+    -pyttsx3
+    -sounder
